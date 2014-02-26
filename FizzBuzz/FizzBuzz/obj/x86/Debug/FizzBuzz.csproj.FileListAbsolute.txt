@@ -5,3 +5,4 @@ C:\Users\Ruan\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\bin
 C:\Users\Ruan\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\bin\Debug\nunit.framework.xml
 C:\Users\Ruan\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
 C:\Users\Ruan\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
+C:\Users\Ruan\Documents\GitHub\nreality-journeyman-prework\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
